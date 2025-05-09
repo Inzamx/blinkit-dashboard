@@ -1,3 +1,3 @@
 # blinkit-dashboard
 This Power BI dashboard for Blinkit provides a comprehensive analysis of sales performance, item distribution, and outlet metrics. It showcases key business insights through dynamic visualizations, enabling data-driven decision-making. The dashboard includes filters for outlet location type, outlet size, and item categories, helping users explore sales trends across different tiers. With breakdowns of fat content sales, item type distribution, outlet size performance, and sales growth over time, it offers a clear snapshot of Blinkit's operational efficiency and market impact. 
-https://github.com/Inzamx/blinkit-dashboard/blob/4dacf11c393bd99ab363e691402d21520ff93ae2/Screenshot%202025-05-09%20184320.png
+![image alt][https://github.com/Inzamx/blinkit-dashboard/blob/4dacf11c393bd99ab363e691402d21520ff93ae2/Screenshot%202025-05-09%20184320.png]
